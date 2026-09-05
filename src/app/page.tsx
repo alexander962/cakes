@@ -6,7 +6,7 @@ export default function Home() {
     <div className={styles.page}>
       <main className={styles.main}>
         <h2>Это главная страница</h2>
-        <Link href={'/routing-lab'}>Перейти на учебную страницу</Link>
+        <Link href={"/routing-lab"}>Перейти на учебную страницу</Link>
       </main>
     </div>
   );

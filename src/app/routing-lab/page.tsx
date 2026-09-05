@@ -5,7 +5,7 @@ export default function RoutingLab() {
     <div>
       <h2>page routing-lab</h2>
       <p>Это чисто учебный маршрут</p>
-      <Link href={'/'}>Перейти на главную страницу</Link>
+      <Link href={"/"}>Перейти на главную страницу</Link>
     </div>
   );
 }
