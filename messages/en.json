@@ -1,0 +1,7 @@
+{
+  "Home": {
+    "title": "Home page",
+    "description": "Homepage Description",
+    "routingLabLink": "Nested test page"
+  }
+}
